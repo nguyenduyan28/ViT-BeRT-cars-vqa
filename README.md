@@ -86,8 +86,6 @@ Below is a bar chart comparing the accuracy of different fusion methods across c
 ## Contributing
 Feel free to fork this repository, submit issues, or create pull requests to improve the model or dataset!
 
-## License
-[MIT License] - Feel free to modify this section based on your preference.
 
 ## Acknowledgments
 - Thanks to the Hugging Face community for the datasets and transformers library.
