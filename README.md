@@ -60,10 +60,15 @@ This project is a **Visual Question Answering (VQA)** model designed to answer q
   - Color Loss: 1.1503
   - Brand Loss: 0.8095
   - Car Name Loss: 1.3009
+- **Comparison chart**
+Below is a bar chart comparing the accuracy of different fusion methods across categories (Overall, Color, Brand, Car Name)
+![Fusion Accuracy Comparison](Figure_1.png)
 - **Top Errors**:
   - **Colors**: Silver (27.42% error), Gray (24.90% error), Blue (16.81% error), Black (12.23% error).
   - **Brands**: BMW (11.53% error), Audi (5.20% error), Bentley (3.12% error), Acura (2.96% error).
   - **Car Names**: Bentley Mulsanne (95.00% error), BMW 330 (46.00% error), BMW X1 (35.71% error), Acura TLX (30.51% error).
+
+
 
 ## Usage
 1. Load the pre-trained model:
