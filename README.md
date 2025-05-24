@@ -1,7 +1,8 @@
 # Visual Question Answering for Car Attributes (VQA-Cars)
 
 ## Introduction
-This project is a **Visual Question Answering (VQA)** model designed to answer questions about car attributes (color, brand, and car name) based on images. The model combines **Vision Transformer (ViT)** for image processing and **BERT** for text question processing, followed by various fusion techniques (add, co-attention, concat, gated fusion, multiplication) to merge features. The model was trained on a custom dataset "cars_8k_balance_dataset_full_augmented_v2" from Hugging Face.
+This project is a **Visual Question Answering (VQA)** model designed to answer questions about car attributes (color, brand, and car name) based on images. The model combines **Vision Transformer (ViT)** for image processing and **BERT** for text question processing, followed by various fusion techniques (add, co-attention, concat, gated fusion, multiplication) to merge features.
+Check the demo at : https://huggingface.co/spaces/duyan2803/vqa-demo-cop
 
 ## Features
 - Recognizes car colors (blue, white, black, gray, silver).
